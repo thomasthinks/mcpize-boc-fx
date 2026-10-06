@@ -21,10 +21,7 @@ pricing:
   tools:
     - name: convert_currency
       price: "0.01"
-      description: "Convert an amount between two currencies using official Bank of Canada daily exchange rates. CAD is one side of all BoC rates; conversions b…"
     - name: fx_history
       price: "0.01"
-      description: "Daily exchange-rate series between two currencies from Bank of Canada data (history from 2017). Non-CAD pairs are computed via the CAD cross…"
     - name: latest_rates
       price: "0.01"
-      description: "The most recently published Bank of Canada daily exchange rates, all quoted as CAD per 1 unit of the foreign currency (base CAD). BoC publis…"
